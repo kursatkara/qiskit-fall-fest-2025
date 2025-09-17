@@ -1,0 +1,1 @@
+Placeholder for CONTRIBUTING.md in qiskit-fall-fest-2025/

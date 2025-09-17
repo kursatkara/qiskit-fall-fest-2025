@@ -1,0 +1,1 @@
+Placeholder for 04-hackathon.md in qiskit-fall-fest-2025/docs/sessions/

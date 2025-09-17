@@ -1,0 +1,1 @@
+Placeholder for references.md in qiskit-fall-fest-2025/resources/

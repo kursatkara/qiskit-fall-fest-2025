@@ -1,0 +1,1 @@
+Placeholder for 02-circuits.md in qiskit-fall-fest-2025/docs/sessions/

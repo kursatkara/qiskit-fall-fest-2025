@@ -1,0 +1,1 @@
+Placeholder for CODE_OF_CONDUCT.md in qiskit-fall-fest-2025/
