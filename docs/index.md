@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link rel="stylesheet" href="assets/style.css">
+
 # Qiskit Fall Fest 2025 — Oklahoma State University
 
 > Virtual series • Mondays, **Oct 13 – Nov 3, 2025** • **5:00–6:00 PM CT**

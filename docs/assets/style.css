@@ -1,1 +1,12 @@
-Placeholder for style.css in qiskit-fall-fest-2025/docs/assets/
+/* Custom overrides for Qiskit Fall Fest site */
+
+/* Hide GitHub Pages default footer */
+.site-footer { 
+  display: none !important; 
+}
+
+/* Optional: improve text width */
+.container { 
+  max-width: 960px; 
+  margin: auto; 
+}
