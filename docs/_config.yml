@@ -1,1 +1,7 @@
-Placeholder for _config.yml in qiskit-fall-fest-2025/docs/
+title: "Qiskit Fall Fest 2025 @ OSU"
+description: "Four-week virtual series with hands-on Qiskit labs"
+url: "https://kursatkara.github.io"
+baseurl: "/qiskit-fall-fest-2025"
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme

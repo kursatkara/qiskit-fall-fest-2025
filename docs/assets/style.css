@@ -1,12 +1,66 @@
 /* Custom overrides for Qiskit Fall Fest site */
 
-/* Hide GitHub Pages default footer */
+/* Hide the default theme page header to avoid duplicate title/link */
+.page-header {
+  display: none !important;
+}
+
+/* Optional: hide the default footer */
 .site-footer { 
   display: none !important; 
 }
 
-/* Optional: improve text width */
+/* Improve readable width */
 .container { 
-  max-width: 960px; 
+  max-width: 980px; 
   margin: auto; 
+  padding: 0 1rem;
+}
+
+/* Branded header */
+.brand-header {
+  background: #ffffff;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 1rem;
+}
+
+.brand-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.75rem 0;
+}
+
+.brand-left {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-decoration: none;
+}
+
+.brand-title {
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: #111;
+}
+
+.brand-logo {
+  height: 36px;
+  width: auto;
+}
+
+/* Mobile tweaks */
+@media (max-width: 600px) {
+  .brand-wrap {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  .brand-logo {
+    height: 28px;
+  }
+  .brand-title {
+    font-size: 1rem;
+  }
 }

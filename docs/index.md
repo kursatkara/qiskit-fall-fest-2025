@@ -2,13 +2,27 @@
 layout: default
 ---
 
+<!-- Load custom CSS -->
 <link rel="stylesheet" href="assets/style.css">
 
-# Qiskit Fall Fest 2025 — Oklahoma State University
+<!-- Custom Branded Header (replaces theme header we hide via CSS) -->
+<header class="brand-header">
+  <div class="brand-wrap">
+    <a class="brand-left" href="{{ site.baseurl }}/">
+      <img src="assets/img/osu-logo.png" alt="OSU" class="brand-logo">
+      <span class="brand-title">Qiskit Fall Fest 2025 — Oklahoma State University</span>
+    </a>
+    <div class="brand-right">
+      <img src="assets/img/qiskit-logo.png" alt="Qiskit" class="brand-logo">
+    </div>
+  </div>
+</header>
+
+# Welcome
 
 > Virtual series • Mondays, **Oct 13 – Nov 3, 2025** • **5:00–6:00 PM CT**
 
-Welcome to the event website! This site hosts slides, Google Colab notebooks, and mini-challenges for each session.
+This site hosts slides, Google Colab notebooks, and mini-challenges for each session.
 
 - 📖 **Schedule:** [View the weekly schedule](schedule.md)
 - 💻 **Launch Colab (Session 1):** [Open 01_intro_qubits.ipynb](../notebooks/01_intro_qubits.ipynb)
