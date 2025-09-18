@@ -41,7 +41,7 @@ Students, researchers, and developers in computational science and engineering w
 - **Shafi Al Salman Romeo** — PhD Candidate  
 - **Ashraf Kassem** — PhD Candidate  
 - **Sabbir Hossain** — MSc Student  
-{% comment %}
+<!--
 - **Stevens Johnson** — PhD Student  
 - **Geetha Karuppasamy** — PhD Student
-{% endcomment %}
+-->

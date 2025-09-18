@@ -9,8 +9,6 @@ layout: default
 ![Qiskit Fall Fest 2025 Banner](assets/img/banner.jpg){: .banner }
 
 # 📅 Qiskit Fall Fest 2025 Schedule
-## KARA Lab
-## Oklahoma State University
 
 All sessions will be held virtually on **Mondays, October 13 – November 3, 2025**,  
 from **5:00 – 6:00 PM CT**.  
@@ -32,9 +30,10 @@ Each session includes:
 | **Nov 3**   | Mini‑Hackathon & Showcase | [PDF](https://github.com/kursatkara/qiskit-fall-fest-2025/blob/master/slides/04_hackathon_slides.pdf) | [Open in Colab](https://colab.research.google.com/github/kursatkara/qiskit-fall-fest-2025/blob/master/notebooks/04_hackathon.ipynb) | [Prompt](https://github.com/kursatkara/qiskit-fall-fest-2025/blob/master/challenges/challenge_04.md) |
 
 ---
-
+<!--
 ## 🔗 Resources
 - [Event Website]({{ site.baseurl }}/)  
 - [Repository](https://github.com/kursatkara/qiskit-fall-fest-2025)  
 - [Code of Conduct]({{ site.baseurl }}/../CODE_OF_CONDUCT.md)  
 - [Register](https://forms.gle/QFX9VXnRvjnKLpJN6)
+-->
