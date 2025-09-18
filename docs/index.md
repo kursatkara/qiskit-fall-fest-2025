@@ -37,10 +37,14 @@ Students, researchers, and developers in computational science and engineering w
 
 ## Organizing Committee
 
-- **Dr. Kursat Kara (Chair)** — Associate Professor, School of Mechanical & Aerospace Engineering  
-- **Shafi Al Salman Romeo** — PhD Candidate  
-- **Ashraf Kassem** — PhD Candidate  
-- **Sabbir Hossain** — MSc Student  
+- **Dr. Kursat Kara (Chair)** 
+— Associate Professor, School of Mechanical & Aerospace Engineering  
+- **Shafi Al Salman Romeo** 
+— PhD Candidate  
+- **Ashraf Kassem** 
+— PhD Candidate  
+- **Sabbir Hossain** 
+— MSc Student  
 <!--
 - **Stevens Johnson** — PhD Student  
 - **Geetha Karuppasamy** — PhD Student
