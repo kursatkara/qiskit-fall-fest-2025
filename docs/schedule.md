@@ -4,7 +4,13 @@ layout: default
 
 <link rel="stylesheet" href="assets/style.css">
 
-# 📅 Qiskit Fall Fest 2025 Schedule — Oklahoma State University
+{% include nav.html %}
+
+![Qiskit Fall Fest 2025 Banner](assets/img/banner.jpg){: .banner }
+
+# 📅 Qiskit Fall Fest 2025 Schedule
+## KARA Lab
+## Oklahoma State University
 
 All sessions will be held virtually on **Mondays, October 13 – November 3, 2025**,  
 from **5:00 – 6:00 PM CT**.  

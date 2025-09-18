@@ -4,17 +4,13 @@ layout: default
 
 <link rel="stylesheet" href="assets/style.css">
 
+{% include nav.html %}
+
 ![Qiskit Fall Fest 2025 Banner](assets/img/banner.jpg){: .banner }
 
-<nav class="site-nav">
-  <a href="{{ site.baseurl }}/">Home</a>
-  <a href="{{ site.baseurl }}/schedule.html">Schedule</a>
-  <a href="{{ site.baseurl }}/organizers.html">Organizers</a>
-  <a href="https://forms.gle/QFX9VXnRvjnKLpJN6" target="_blank">Register</a>
-  <a href="https://github.com/kursatkara/qiskit-fall-fest-2025" target="_blank">Repository</a>
-</nav>
-
-# Qiskit Fall Fest 2025 — Oklahoma State University
+# Qiskit Fall Fest 2025 
+## KARA Lab
+## Oklahoma State University
 
 > Virtual series • Mondays, **Oct 13 – Nov 3, 2025** • **5:00–6:00 PM CT**
 
@@ -45,5 +41,5 @@ Students, researchers, and developers in computational science and engineering w
 - **Shafi Al Salman Romeo** — PhD Candidate  
 - **Ashraf Kassem** — PhD Candidate  
 - **Sabbir Hossain** — MSc Student  
-- **Stevens Johnson** — PhD Student  
-- **Geetha Karuppasamy** — PhD Student
+`- **Stevens Johnson** — PhD Student  
+`- **Geetha Karuppasamy** — PhD Student
