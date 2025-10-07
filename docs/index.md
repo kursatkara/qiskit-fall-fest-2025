@@ -12,7 +12,7 @@ layout: default
 ## KARA Lab
 ## Oklahoma State University
 
-> Virtual series • Mondays, **Oct 20 – Nov 310, 2025** • **5:00–6:00 PM CT**
+> Virtual series • Mondays, **Oct 20 – Nov 10, 2025** • **5:00–6:00 PM CT**
 
 [![Register Now](https://img.shields.io/badge/Register-Qiskit%20Fall%20Fest%202025-brightgreen?style=for-the-badge)](https://forms.gle/QFX9VXnRvjnKLpJN6)
 
