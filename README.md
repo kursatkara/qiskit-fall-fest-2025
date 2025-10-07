@@ -7,7 +7,7 @@ A four-week virtual series designed to introduce students and researchers to **q
 
 ## 📅 Event Overview
 - 🖥 **Format:** Virtual (Zoom + Google Colab)  
-- 📆 **Dates:** Mondays, October 13 – November 3, 2025  
+- 📆 **Dates:** Mondays, October 20 – November 10, 2025  
 - ⏰ **Time:** 5:00 – 6:00 PM CT  
 - 🧩 **Structure per session:**  
   - 20-minute concept introduction  
@@ -31,10 +31,10 @@ Click the badge above to launch our Session 1 notebook directly in Colab.
 ---
 
 ## 📚 Sessions
-1. **Oct 13** — Introduction to Qubits & Quantum States  
-2. **Oct 20** — Building & Simulating Quantum Circuits  
-3. **Oct 27** — Introductory Algorithms (Deutsch–Jozsa, Grover’s Search)  
-4. **Nov 3** — Mini-Hackathon & Showcase  
+1. **Oct 20** — Introduction to Qubits & Quantum States  
+2. **Oct 27** — Building & Simulating Quantum Circuits  
+3. **Nov 3** — Introductory Algorithms (Deutsch–Jozsa, Grover’s Search)  
+4. **Nov 10** — Mini-Hackathon & Showcase  
 
 ---
 

@@ -12,7 +12,7 @@ layout: default
 ## KARA Lab
 ## Oklahoma State University
 
-> Virtual series • Mondays, **Oct 13 – Nov 3, 2025** • **5:00–6:00 PM CT**
+> Virtual series • Mondays, **Oct 20 – Nov 310, 2025** • **5:00–6:00 PM CT**
 
 [![Register Now](https://img.shields.io/badge/Register-Qiskit%20Fall%20Fest%202025-brightgreen?style=for-the-badge)](https://forms.gle/QFX9VXnRvjnKLpJN6)
 
@@ -37,7 +37,9 @@ Students, researchers, and developers in computational science and engineering w
 
 ## Organizing Committee
 
-- **Dr. Kursat Kara (Chair)** — Associate Professor, School of Mechanical & Aerospace Engineering  
+- **Kursat Kara, Ph.D. (Chair)** — Associate Professor, School of Mechanical & Aerospace Engineering  
 - **Shafi Al Salman Romeo** — PhD Candidate  
 - **Ashraf Kassem** — PhD Candidate  
-- **Sabbir Hossain** — MSc Student  
+- **Varun Puram** — PhD Student
+- **Stevens Johnson** - PhD Student     
+- **Sabbir Hossain** — MSc Student

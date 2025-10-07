@@ -1,7 +1,7 @@
 # Qiskit Fall Fest 2025 — Challenge 04
 
 ## 📅 Due Date
-Submit your solution by **November 4, 2025** (next day after the session).
+Submit your solution by **November 11, 2025** (next day after the session).
 
 ## 🎯 Objective
 Work as a team to create a mini-project using Qiskit that demonstrates an application or concept of your choice.

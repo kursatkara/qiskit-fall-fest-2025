@@ -1,7 +1,7 @@
 # Qiskit Fall Fest 2025 — Challenge 02
 
 ## 📅 Due Date
-Submit your solution by **October 21, 2025** (next day after the session).
+Submit your solution by **October 28, 2025** (next day after the session).
 
 ## 🎯 Objective
 Build and simulate a multi-qubit circuit demonstrating entanglement.

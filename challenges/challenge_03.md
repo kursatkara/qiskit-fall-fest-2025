@@ -1,7 +1,7 @@
 # Qiskit Fall Fest 2025 — Challenge 03
 
 ## 📅 Due Date
-Submit your solution by **October 28, 2025** (next day after the session).
+Submit your solution by **November 4, 2025** (next day after the session).
 
 ## 🎯 Objective
 Implement the Deutsch–Jozsa or Grover’s algorithm on a toy example.

@@ -10,7 +10,9 @@ layout: default
 
 # Organizing Committee
 
-- **Dr. Kursat Kara (Chair)** — Associate Professor, School of Mechanical & Aerospace Engineering  
+- **Kursat Kara, Ph.D. (Chair)** — Associate Professor, School of Mechanical & Aerospace Engineering  
 - **Shafi Al Salman Romeo** — PhD Candidate  
 - **Ashraf Kassem** — PhD Candidate  
-- **Sabbir Hossain** — MSc Student  
+- **Varun Puram** — PhD Student
+- **Stevens Johnson** - PhD Student     
+- **Sabbir Hossain** — MSc Student

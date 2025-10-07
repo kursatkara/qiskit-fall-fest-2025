@@ -1,7 +1,7 @@
 # Qiskit Fall Fest 2025 — Challenge 01
 
 ## 📅 Due Date
-Submit your solution by **October 14, 2025** (next day after the session).
+Submit your solution by **October 21, 2025** (next day after the session).
 
 ## 🎯 Objective
 Implement and visualize single-qubit states using Qiskit.
