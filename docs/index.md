@@ -19,7 +19,7 @@ layout: default
 Welcome to the event website! This site hosts slides, Google Colab notebooks, and mini-challenges for each session.
 
 - 📖 **Schedule:** [View the weekly schedule](schedule.md)
-- 💻 **Launch Colab (Session 1):** [Open 01_intro_qubits.ipynb](../notebooks/01_intro_qubits.ipynb)
+- 💻 **Launch Colab (Session 1):** [Open 01_intro_qubits.ipynb](https://colab.research.google.com/github/kursatkara/qiskit-fall-fest-2025/blob/master/notebooks/01_intro_qubits.ipynb)
 - 📂 **Repository:** [github.com/kursatkara/qiskit-fall-fest-2025](https://github.com/kursatkara/qiskit-fall-fest-2025)
 - 📜 **Code of Conduct:** [View](../CODE_OF_CONDUCT.md)
 
