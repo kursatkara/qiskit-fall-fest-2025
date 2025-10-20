@@ -10,10 +10,10 @@ Implement and visualize single-qubit states using Qiskit.
 1. Open the related Colab notebook [challange_01.ipynb](https://colab.research.google.com/github/kursatkara/qiskit-fall-fest-2025/blob/master/challenges/challange_01.ipynb) 
 2. Complete the exercise(s) described during the session.
 3. Save your solution notebook and upload it (or share a Colab link).
-4. Post your submission in the GitHub issue.
+4. Post your submission in the [GitHub issues] (https://github.com/kursatkara/qiskit-fall-fest-2025/issues).
 
 ## ✅ Submission Format
-- File: `challenge_01_solution.ipynb`  
+- File: `challenge_01_solution_lastname.ipynb`  
 - Or: Share a Colab link with access enabled.
 
 ## 💡 Tips
